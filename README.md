@@ -71,3 +71,5 @@ Revise and push changes as needed.
 - Turn in with Canvas. The file you turn in is credentials.ini. We
    use the repository link in your credentials.ini to access the rest,
    just like the auto-checker.
+
+- Complete
