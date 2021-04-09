@@ -1,6 +1,6 @@
 """
 Trivial project is just for trying out Git and the
-grading mechanisms.
+grading mechanisms.(Complete)
 """
 
 import configparser
