@@ -1,6 +1,6 @@
 """
-Trivial project is just for trying out Git and the
-grading mechanisms.(Complete)
+Complete credentials.ini, now after put that and hello.py in the same 
+folder, being able to print "Hello World".
 """
 
 import configparser
